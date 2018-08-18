@@ -1,0 +1,26 @@
+{
+  "name": "portfolio_website",
+  "version": "1.0.0",
+  "description": "Damian Bemben's Portfolio Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dambem/portfolio.git"
+  },
+  "keywords": [
+    "portfolio"
+  ],
+  "author": "Damian Bemben",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dambem/portfolio/issues"
+  },
+  "homepage": "https://github.com/dambem/portfolio#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "npm": "^6.4.0"
+  }
+}
